@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaada</h1>
 <h3 align="center">I code alot of bs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g-aad-a&label=Profile%20views&color=0e75b6&style=flat" alt="g-aad-a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-aad-a" alt="g-aad-a" /></a> </p>
 
 - 🔭 I’m currently working on **N/A**
 
