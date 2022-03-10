@@ -3,19 +3,15 @@
 
 
 
-- 🔭 I’m currently working on **N/A**
+- 🔭 I’m currently working on **MeaC**
 
-- 🌱 I’m currently learning **PHP, PY**
-
-- 👯 I’m looking to collaborate on **N/A**
-
-- 🤝 I’m looking for help with **N/A**
+- 🌱 I’m currently learning **NOTHING**
 
 - 💬 Ask me about **nothing, im pure bs at coding xd**
 
 - 📫 How to reach me **gaada@gaada.vip**
 
-- ⚡ Fun fact **I'm cool and your not lel**
+- ⚡ Fun fact **I'm cool and your not lol**
 
 
 <h3 align="left">Languages and Tools:</h3>
