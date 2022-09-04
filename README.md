@@ -1,11 +1,38 @@
-<h1 align="center">Hi 👋, I'm Rolade Gade</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g-aad-a&label=Profile%20views&color=0e75b6&style=flat" alt="g-aad-a" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/g/count.svg?"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-aad-a&show_icons=true&locale=en&layout=compact" alt="g-aad-a" /></p>
+###
+
+<div align="center">
+  <img height="500" src="https://cdn.discordapp.com/attachments/918258099020767282/1015938818676903986/DANEMARKS.gif"  />
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/g/g/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=g-aad-a&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Augustus">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
