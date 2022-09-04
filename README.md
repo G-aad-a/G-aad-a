@@ -19,7 +19,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/g/g/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
