@@ -23,14 +23,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=g-aad-a&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <div align="center">
- [Spotify](https://spotify-recently-played-readme.vercel.app/api?user=3cegtc30jh0kq6y775lu5mcsp)
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3cegtc30jh0kq6y775lu5mcsp)
 </div>
 
 ###
