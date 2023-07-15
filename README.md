@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="text-align: center;" >Under kan ses hvor mange gange min loyale fans har besøgt min github for at skid mine varme repositories 🔥💦🔥 </h2>
+  <h3 style="text-align: center;" >Under kan ses hvor mange gange min loyale fans har besøgt min github for at skid mine varme repositories 🔥💦🔥 </h3>
   <img src="https://profile-counter.glitch.me/g/count.svg?"  />
 </div>
 
