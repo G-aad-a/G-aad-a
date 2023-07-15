@@ -1,4 +1,5 @@
 <div align="center">
+  <h3 style="text-align: center;" >Views</h3>
   <img src="https://profile-counter.glitch.me/g/count.svg?"  />
 </div>
 
